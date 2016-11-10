@@ -1,0 +1,35 @@
+/* Pon tu código css aqui */
+*{
+			margin: 0;
+			padding: 0;
+		}
+
+
+
+		.cuadro1{
+			width: 400px;
+			height: 400px; 
+			background-color: blue;
+			position: relative;
+
+
+		}
+
+		.cuadro2{
+			width: 200px;
+			height: 200px; 
+			background-color: green;
+			position: absolute;
+			top: 100px;
+			left: 100px;
+
+		}
+
+		.cuadro3{
+			width: 100px;
+			height: 100px; 
+			background-color: #000;
+			position: absolute;
+			top: 0
+
+		}
